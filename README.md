@@ -9,6 +9,6 @@ This program just literally requests administrator permissions and calls taskkil
 
 The program runs on .NET Framework 4.0
 
-why does this repo even exist at all
+# why does this repo even exist at all
 
 # ***I AM NOT RESPONSIBLE FOR ANY DAMAGES CAUSED BY THE MISUSE OF THIS PROGRAM. (if you somehow can cause them)***
