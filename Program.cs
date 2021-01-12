@@ -10,7 +10,6 @@ namespace Vulnerability_Test
     {
         static void Main(string[] args)
         {
-            Console.ForegroundColor = ConsoleColor.Cyan;
             Console.ForegroundColor = ConsoleColor.Red;
             Console.Write("Do you want me to kill windows? [Y]es - [N]o:");
             Console.ForegroundColor = ConsoleColor.White;
