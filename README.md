@@ -1,8 +1,6 @@
 # svchost.exe Destroyer
 Svchost Destroyer made in C#
 
-This is to test a process termination permission quirk that allows any program with administrator priviledges to BSOD the system.
-
 Program.cs is the only code file for the program.
 
 This program just literally requests administrator permissions and calls taskkill on svchost.exe, which causes a BSOD.
